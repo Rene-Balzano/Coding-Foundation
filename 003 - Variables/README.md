@@ -24,9 +24,9 @@ console.log(getUserNameLength(userName) > 4)
 
 Implement a `isString` function.
 
-- [ ] The function has one parameter which could be any kind of data type
-- [ ] The function is written as a function expression
-- [ ] The function returns a boolean. It returns only true, when the data type is a string otherwise it will return false
+- [X] The function has one parameter which could be any kind of data type
+- [X] The function is written as a function expression
+- [X] The function returns a boolean. It returns only true, when the data type is a string otherwise it will return false
 
 ```js
 // TODO: Implement the isString function
