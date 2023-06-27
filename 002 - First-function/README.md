@@ -8,8 +8,8 @@
 
 Implement a `welcomeMsg` function.
 
-- [ ] The first parameter is the name of the person to be greeted. It's a string.
-- [ ] The function should return a string that contains the name of person in a welcome msg.
+- [X] The first parameter is the name of the person to be greeted. It's a string.
+- [X] The function should return a string that contains the name of person in a welcome msg.
 
 ```js
 // TODO: implement welcomeMsg function
@@ -25,9 +25,9 @@ console.log(welcomeMsg("Marc"));
 
 Implement a `calcGrossPrice` function.
 
-- [ ] The first parameter is the net price as integer number
-- [ ] The second parameter is the tax rate as float number
-- [ ] The function should return the gross price
+- [X] The first parameter is the net price as integer number
+- [X] The second parameter is the tax rate as float number
+- [X] The function should return the gross price
 
 ```js
 // TODO: implement calcGrossPrice function
@@ -43,9 +43,9 @@ console.log(calcGrossPrice(40, 0.16));
 
 Implement a `addPositive` function.
 
-- [ ] The function has two parameters which will always be numbers
-- [ ] The function should add the two numbers and return the result
-- [ ] If any of the arguments is a negative number, it should be handled as a positive number (see example code)
+- [X] The function has two parameters which will always be numbers
+- [X] The function should add the two numbers and return the result
+- [X] If any of the arguments is a negative number, it should be handled as a positive number (see example code)
 
 ```js
 // TODO: Implement the addPositive function
